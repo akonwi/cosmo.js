@@ -21,7 +21,8 @@ Right now, Cosmo depends on SpacePen, jQuery, and Backbone. Soon, the necessary 
 <script type='text/javascript' src="js/coffee-script.js"></script>
 <script type='text/javascript' src="js/jquery-2.0.3.js"></script>
 <script type='text/javascript' src="js/backbone.js"></script>
-<script type='text/coffeescript' src="js/cosmo.js"></script>
+<script type='text/coffeescript' src="js/cosmo.coffee"></script>
+
 ```
 
 ## Cosmo.Router
