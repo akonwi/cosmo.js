@@ -86,3 +86,6 @@ The container is the main default region but you can have as many as you want. W
 ``` coffeescript
 MyApp.get('regions').container # => whatever the jQuery looks like
 ```
+
+## Data Persistence
+Models and Collections are just instances of Backbone.Model and Collection for now
