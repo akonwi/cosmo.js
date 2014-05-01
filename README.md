@@ -89,4 +89,4 @@ MyApp.get('regions').container # => whatever the jQuery looks like
 ```
 
 ## Data Persistence
-Models and Collections are just instances of Backbone.Model and Collection for now
+You can use whatever you want for data right now. I use Backbone but I want to incorporate a Cosmo.Model of some sort
