@@ -1,6 +1,7 @@
 window.Cosmo =
   version: '0.1.0'
 
+# comment
 # All apps should be an extended instance of this class
 class Cosmo.Router
   # app regions, assumes main content goes in a div#container
