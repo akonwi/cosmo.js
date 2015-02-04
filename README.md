@@ -15,7 +15,7 @@ So the goal of Cosmo.js is to make writing client side apps easier. I don't want
 Usage
 =====
 
-Right now, Cosmo depends on SpacePen, jQuery, and Backbone. Soon, the necessary Backbone features will be incorporated to remove that extra dependency.
+Right now, Cosmo depends on SpacePen, jQuery, and Backbone. Soon, the necessary Backbone features will be incorporated to remove that extra dependency. Perhaps, I should remove dependency on jQuery and Spacepen
 
 ``` html
 <script type='text/javascript' src="js/coffee-script.js"></script>
