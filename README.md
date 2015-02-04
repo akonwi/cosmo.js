@@ -1,4 +1,4 @@
-Cosmo.js(_BETA_)
+Cosmo.js(_Canceled_)
 ======
 
 Simpler Single Page Application MVC Framework
@@ -6,7 +6,7 @@ Simpler Single Page Application MVC Framework
 ## Why?
 I've used Backbone.js for a while now but after hacking on the new atom editor and using github's [SpacePen](http://github.com/atom/space-pen), I've realized that I can write client side apps with a different paradigm. SpacePen removes the need for templates and makes it easier to write more straightforward and intuitive(in my opinion) view objects.
 
-So the goal of Cosmo.js is to make writing client side apps easier. I don't want to reinvent the wheel but I'd like to make a wheel I want to keep using though. Cosmo will have features I've realized I like to use from different places.  
+So the goal of Cosmo.js is to make writing client side apps easier. I don't want to reinvent the wheel but I'd like to make a wheel I want to keep using though. Cosmo will have features I've realized I like to use from different places.
 
   * Models/Collections/REST persistence from Backbone.js(They got it right)
   * Regions from Marionette.js
