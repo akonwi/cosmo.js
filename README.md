@@ -1,4 +1,4 @@
-Cosmo.js(_Canceled_)
+Cosmo.js(_Rejuvenated_)
 ======
 
 Simpler Single Page Application MVC Framework
