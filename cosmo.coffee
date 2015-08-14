@@ -1,5 +1,5 @@
 window.Cosmo =
-  version: '0.1.0'
+  version: '0.1.1'
 
 # All apps should be an extended instance of this class
 # TODO: rewrite this as an object
