@@ -1,4 +1,4 @@
-Cosmo.js(_Inactive_)
+Cosmo.js(_)
 =======
 
 Simpler Single Page Application MVC Framework
