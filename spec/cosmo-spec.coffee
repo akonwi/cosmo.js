@@ -1,4 +1,5 @@
 describe "Cosmo", ->
+  
   it 'should have a router class to extend', ->
     expect(Cosmo.Router).not.toBe null
     expect(Cosmo.Router).not.toBe undefined
